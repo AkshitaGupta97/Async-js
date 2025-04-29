@@ -13,7 +13,7 @@
 })
 for(let i=0;i<1000000000;i++){}
 console.log("Created Promise Object");
-console.log(pr);
+console.log(pr); // provide status
 */
 
 /*console.log("Start...");
